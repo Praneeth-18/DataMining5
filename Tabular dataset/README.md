@@ -1,3 +1,4 @@
+[MEDIUM link[(https://medium.com/@saipraneethk181200/unveiling-insights-from-taxi-trip-data-a-deep-dive-with-python-and-automl-c0752306fd9f)
 
 # Taxi Trip Data Analysis and Modeling
 
