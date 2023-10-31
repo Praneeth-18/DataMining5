@@ -1,3 +1,4 @@
+[MEDIUM link](https://medium.com/@saipraneethk181200/analyzing-mcdonalds-locations-a-comprehensive-guide-b6837bfd1ff0)
 
 # McDonald's Locations Analysis README
 
