@@ -1,37 +1,31 @@
-# Image Analysis with AutoML
+# Image Data Analysis and Modeling Using AutoML
 
-A comprehensive guide to exploring, clustering, and modeling an image dataset using Automated Machine Learning (AutoML).
+## Table of Contents
+- [Introduction](#introduction)
+- [Initial Exploration and Visualization](#initial-exploration-and-visualization)
+- [Feature Extraction with MobileNetV2](#feature-extraction-with-mobilenetv2)
+- [Clustering and Anomaly Detection](#clustering-and-anomaly-detection)
+- [Building Models with H2O's AutoML](#building-models-with-h2os-automl)
+- [Conclusion](#conclusion)
 
-## 📌 Table of Contents
+## Introduction
+In this repository, we provide a comprehensive guide to analyzing an image dataset, followed by clustering and predictive modeling using Automated Machine Learning (AutoML). The dataset in question contains images from two categories: "Kirmizi_Pistachio" and "Siirt_Pistachio".
 
-- [Introduction](#-introduction)
-- [Initial Exploration and Visualization](#-initial-exploration-and-visualization)
-- [Clustering with KMeans](#-clustering-with-kmeans)
-- [Anomaly Detection](#-anomaly-detection)
-- [Building Models with H2O's AutoML](#-building-models-with-h2os-automl)
-- [Conclusion](#-conclusion)
+## Initial Exploration and Visualization
+- **Objective**: Understand the basic properties of the dataset.
+- **Output**: Initial statistics, such as the number of images in each category.
 
-## 🚀 Introduction
-This repository provides a step-by-step guide to analyzing an image dataset containing two categories: "Kirmizi_Pistachio" and "Siirt_Pistachio". From initial exploration to predictive modeling, the guide covers a range of machine learning techniques.
+## Feature Extraction with MobileNetV2
+- **Objective**: Convert high-dimensional image data into a feature set using a pre-trained model.
+- **Output**: Features for each image that are suitable for clustering and modeling.
 
-## 🧐 Initial Exploration and Visualization
-The dataset comprises:
-- 1,232 images in the "Kirmizi_Pistachio" category.
-- 916 images in the "Siirt_Pistachio" category.
-All images are of consistent 600x600 pixel dimensions.
+## Clustering and Anomaly Detection
+- **Objective**: Group similar images and detect anomalies.
+- **Output**: Clusters of images and a list of potential outliers.
 
-## 🛠️ Feature Extraction with Pre-trained Models
-We use the VGG16 model, pre-trained on ImageNet, to extract features from the images, converting high-dimensional image data into a format suitable for clustering and modeling.
+## Building Models with H2O's AutoML
+- **Objective**: Use AutoML to select the best model and hyperparameters.
+- **Output**: A leaderboard displaying the performance of various models on the validation set.
 
-## 📊 Clustering with KMeans
-Group similar images using the KMeans clustering algorithm.
-
-## 🚫 Anomaly Detection
-The Isolation Forest algorithm helps identify and potentially remove outliers or unusual images in the dataset.
-
-## 🤖 Building Models with H2O's AutoML
-AutoML platforms simplify the process of model selection and hyperparameter tuning. The H2O platform is employed for this purpose, automatically selecting the best algorithm and optimizing its parameters for the task at hand.
-
-## 💡 Conclusion
-Through a systematic approach, we've created a pipeline to handle image datasets efficiently. This pipeline can be adapted for various datasets and can serve as a foundation for more advanced tasks.
-
+## Conclusion
+This repository offers a systematic approach to handling image datasets. From initial exploration to predictive modeling, a range of machine learning techniques are covered. This pipeline can be adapted for various datasets and provides a strong foundation for more complex tasks.
