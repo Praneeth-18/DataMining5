@@ -1,4 +1,4 @@
-[MEDIUM link]()
+[MEDIUM link](https://medium.com/@saipraneethk181200/eda-clustering-and-modeling-of-chickenpox-cases-in-hungary-eccc7bbc189e)
 
 # Chickenpox Cases Analysis and Modeling
 
