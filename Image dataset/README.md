@@ -1,3 +1,5 @@
+[MEDIUM link](https://medium.com/@saipraneethk181200/exploratory-data-analysis-clustering-and-model-building-on-image-datasets-using-automl-ccf6b25e1189)
+
 # Image Data Analysis and Modeling Using AutoML
 
 ## Table of Contents
