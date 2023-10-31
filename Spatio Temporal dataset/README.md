@@ -1,3 +1,5 @@
+[MEDIUM link]()
+
 # Chickenpox Cases Analysis and Modeling
 
 ## Table of Contents
