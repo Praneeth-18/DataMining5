@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praneeth-18/DataMining5/blob/main/Spatio%20Temporal%20dataset/Spatio_Temporal.ipynb)
+
 [MEDIUM link](https://medium.com/@saipraneethk181200/eda-clustering-and-modeling-of-chickenpox-cases-in-hungary-eccc7bbc189e)
 
 # Chickenpox Cases Analysis and Modeling
