@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praneeth-18/DataMining5/blob/main/Tabular%20dataset/Tabular_diverse_set_of_data_types.ipynb)
+
 [MEDIUM link](https://medium.com/@saipraneethk181200/unveiling-insights-from-taxi-trip-data-a-deep-dive-with-python-and-automl-c0752306fd9f)
 
 # Taxi Trip Data Analysis and Modeling
