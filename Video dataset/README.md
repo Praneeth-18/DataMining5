@@ -1,3 +1,4 @@
+[MEDIUM link](https://medium.com/@saipraneethk181200/action-recognition-from-video-frames-f309265d89ce)
 
 # Action Recognition from Video Frames
 
