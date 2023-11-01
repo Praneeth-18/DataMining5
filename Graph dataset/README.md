@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praneeth-18/DataMining5/blob/main/Graph%20dataset/Graph_dataset.ipynb)
+
 [MEDIUM link](https://medium.com/@saipraneethk181200/eda-clustering-anomaly-detection-and-automl-on-the-cora-dataset-c25238f83db0)
 # Clustering, Anomaly Detection, and AutoML with TPOT
 
