@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praneeth-18/DataMining5/blob/main/Time%20Series%20dataset/Time_Series.ipynb)
+
 [MEDIUM link](https://medium.com/@saipraneethk181200/analyzing-mcdonalds-locations-a-comprehensive-guide-b6837bfd1ff0)
 
 # McDonald's Locations Analysis README
