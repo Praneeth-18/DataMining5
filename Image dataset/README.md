@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Praneeth-18/DataMining5/blob/main/Image%20dataset/Image_dataset.ipynb)
+
 [MEDIUM link](https://medium.com/@saipraneethk181200/exploratory-data-analysis-clustering-and-model-building-on-image-datasets-using-automl-ccf6b25e1189)
 
 # Image Data Analysis and Modeling Using AutoML
